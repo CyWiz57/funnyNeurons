@@ -1,0 +1,17 @@
+---
+title: Second post
+description: Second post.
+date: '2023-4-16'
+categories:
+  - sveltekit
+  - svelte
+published: true
+---
+
+## Table of content
+
+## Svelte
+
+Media inside the **static** folder is served from `/`.
+
+![Svelte](favicon.png)
