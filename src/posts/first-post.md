@@ -1,14 +1,15 @@
 ---
-title: First post
-description: First post.
-date: '2023-4-14'
+title: First Impression of DSPy
+description: Why DSPy feels different from llamaIndex and langchain for rag application.
+date: '2023-10-25'
 categories:
-  - sveltekit
-  - svelte
+  - DSPy
+  - langchain
+  - llamaIndex
 published: true
 ---
 
-## Markdown
+## DSPy: Programming over prompting.
 
 Hey friends 👋
 
